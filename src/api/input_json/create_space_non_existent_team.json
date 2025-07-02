@@ -1,0 +1,41 @@
+{
+    "body": {
+        "err": {"type": "string"},
+        "ECODE": {"type": "string"}
+    },
+    "status_code": 400,
+    "headers": {
+        "Content-Type": "application/json; charset=utf-8",
+        "Content-Length": "47",
+        "Connection": "keep-alive",
+        "Date": "Mon, 30 Jun 2025 01:23:58 GMT",
+        "x-received-from": "shard-prod-us-east-2-1",
+        "Server": "nginx",
+        "x-dns-prefetch-control": "off",
+        "expect-ct": "max-age=0",
+        "strict-transport-security": "max-age=31536000; includeSubDomains",
+        "x-download-options": "",
+        "x-content-type-options": "",
+        "x-permitted-cross-domain-policies": "",
+        "x-xss-protection": "0",
+        "access-control-allow-origin": "*",
+        "access-control-allow-credentials": "true",
+        "access-control-expose-headers": "",
+        "content-language": "en-US",
+        "x-datadog-trace-id": "",
+        "content-security-policy": "",
+        "cache-control": "",
+        "pragma": "",
+        "expires": "",
+        "x-ratelimit-limit": "",
+        "x-ratelimit-remaining": "",
+        "x-ratelimit-reset": "",
+        "Timing-Allow-Origin": "",
+        "X-Cache": "",
+        "Via": "",
+        "X-Amz-Cf-Pop": "",
+        "Alt-Svc": "",
+        "X-Amz-Cf-Id": ""
+    }
+}
+
